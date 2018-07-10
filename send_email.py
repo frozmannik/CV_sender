@@ -9,8 +9,8 @@ import os.path as op
 
 # working fine 
 def send_CV(email_send, title):  # email, title/position
-    email_user = 'emenukitchen@gmail.com'
-    email_password = '12123434Qq'
+    email_user = 'ADD YOUR EMAIL ADDRESS HERE'
+    email_password = 'ADD YOUR PASSWORD HERE'
 
     subject = 'DO NOT REPLY THIS EMAIL + {}'.format(title)
 
